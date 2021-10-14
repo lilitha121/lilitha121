@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilitha121
 - 👀 I’m interested in learning Python and Typescript 
-- 🌱 I’m currently learning JavaScript React
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on maximum productivity and high performing teams.
 - 📫 How to reach me ngelelilitha18@gmail.com
 
